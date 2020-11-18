@@ -2,3 +2,5 @@
 
 ``` sudo pacman -S libvirt virt-manager freerdp ebtables dnsmasq qemu```
 
+```sudo systemctl enable libvirtd ```
+
