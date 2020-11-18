@@ -1,6 +1,6 @@
 # x230-arch-winapps
 
-``` sudo pacman -S libvirt virt-manager freerdp ebtables dnsmasq qemu```
+``` sudo pacman -S libvirt virt-manager freerdp ebtables dnsmasq qemu polkit```
 
 ```sudo systemctl enable libvirtd ```
 
